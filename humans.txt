@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chuong Pham     chuong.pham@unsw.edu.au
 
 # THANKS
 
